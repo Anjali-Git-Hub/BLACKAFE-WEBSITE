@@ -16,4 +16,6 @@
   
 🚀 The website is fully responsive, adapting seamlessly to different screen sizes.
 
+🚀 Icons were added using Font Awesome classes.
+
 🤩 Overall, it's been a significant journey from creating this website as a beginner to where I am now in my web development skills.
